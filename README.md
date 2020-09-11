@@ -35,8 +35,9 @@ miale6407@gmail.com
 
 ## Credential 
 [Click to access credential URL for Java Programming: Build a Recommendation System](https://www.coursera.org/account/accomplishments/certificate/WLSXFS9K25XZ)
-<br /> 
-Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/S9X8MZ88WDF7)
+<br />
+[Click to access credential URL for completion of Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/S9X8MZ88WDF7)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
